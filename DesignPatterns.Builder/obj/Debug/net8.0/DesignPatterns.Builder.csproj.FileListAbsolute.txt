@@ -1,0 +1,14 @@
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.AssemblyInfoInputs.cache
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.AssemblyInfo.cs
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.csproj.CoreCompileInputs.cache
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/bin/Debug/net8.0/DesignPatterns.Builder
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/bin/Debug/net8.0/DesignPatterns.Builder.deps.json
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/bin/Debug/net8.0/DesignPatterns.Builder.runtimeconfig.json
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/bin/Debug/net8.0/DesignPatterns.Builder.dll
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/bin/Debug/net8.0/DesignPatterns.Builder.pdb
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.dll
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/refint/DesignPatterns.Builder.dll
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.pdb
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/DesignPatterns.Builder.genruntimeconfig.cache
+/Users/Repos/DesignPatterns.Builder/DesignPatterns.Builder/obj/Debug/net8.0/ref/DesignPatterns.Builder.dll
